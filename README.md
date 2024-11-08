@@ -10,3 +10,6 @@ The repository is organized into two main sections:
 📘 Python Basics is ideal for beginners looking to build confidence in core programming skills. Through these exercises, learners can expect to gain a solid understanding of Python’s basic functionalities.
 
 ### 📌 Table of Contents:
+➡ [**First Steps in Coding**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/01_first_steps_in_coding_py)
+
+➡ [**Conditional_Statements**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/02_conditional_statements_py)
