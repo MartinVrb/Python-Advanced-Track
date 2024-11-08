@@ -6,7 +6,7 @@ The repository is organized into two main sections:
 - 👨‍💻 **Python Basics**: This section provides a strong base for those just beginning their Python journey and covers basic exercises of Python, focusing on essential syntax, data types, and basic operations.
 - ⚡ **Python Fundamentals**: Building on the basics, this part dives deeper into more complex topics, including database, dictionaries and lists. These exercises aim to develop a more robust understanding of Python's capabilities and prepare for advanced problem-solving.
 
-## Python Basics:
+## 📂 Python Basics:
 🌱 Python Basics is ideal for beginners looking to build confidence in core programming skills. Through these exercises, learners can expect to gain a solid understanding of Python’s basic functionalities.
 
 ### 📌 Table of Contents:
