@@ -7,7 +7,7 @@ The repository is organized into two main sections:
 - ⚡ **Python Fundamentals**: Building on the basics, this part dives deeper into more complex topics, including database, dictionaries and lists. These exercises aim to develop a more robust understanding of Python's capabilities and prepare for advanced problem-solving.
 
 ## Python Basics:
-📘 Python Basics is ideal for beginners looking to build confidence in core programming skills. Through these exercises, learners can expect to gain a solid understanding of Python’s basic functionalities.
+🌱 Python Basics is ideal for beginners looking to build confidence in core programming skills. Through these exercises, learners can expect to gain a solid understanding of Python’s basic functionalities.
 
 ### 📌 Table of Contents:
 ➡ [**First Steps in Coding**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/01_first_steps_in_coding_py)
