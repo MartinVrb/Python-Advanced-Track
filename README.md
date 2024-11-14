@@ -12,4 +12,6 @@ The repository is organized into two main sections:
 ### 📌 Table of Contents:
 ➡ [**First Steps in Coding**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/01_first_steps_in_coding_py)
 
-➡ [**Conditional_Statements**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/02_conditional_statements_py)
+➡ [**Conditional Statements**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/02_conditional_statements_py)
+
+➡ [**Advanced Conditional Statements**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/01_python_basics/03_conditional_statements_advanced_py)
