@@ -49,4 +49,6 @@
 🚀 Overview: Building on the basics, this section delves into intermediate topics like Lists and Dictionaries, Functions, Objects and Classes and regular expressions, equipping learners with tools to tackle more complex problems.
 
 ### 📌 Table of Contents:
-➡ [**Basic Syntax, Conditional Statements and Loops**]()
+➡ [**Basic Syntax, Conditional Statements and Loops**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/02_python_fundamentals/01_basic_syn_cond_stmt_and_loops_py)
+
+➡ [**Data Types and Variables**](https://github.com/MartinVrb/Python-Advanced-Track/tree/main/02_python_fundamentals/02_data_types_and_variables_py)
